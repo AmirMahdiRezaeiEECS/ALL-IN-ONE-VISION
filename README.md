@@ -1,3 +1,5 @@
+<img width="1426" height="548" alt="Screenshot 1405-06-09 at 6 03 19 AM" src="https://github.com/user-attachments/assets/b6a7a35a-8953-45f5-8560-7fd17a23f903" />
+
 # ALL_IN_ONE_VISION_1
 
 Classification-focused computer vision project, architected to closely
